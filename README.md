@@ -57,3 +57,9 @@ npm run build && npm start   # production
 
 ---
 
+## TESTED RESULT
+
+https://drive.google.com/file/d/1i35uyOuhWUc0IsmC-OQaKsGTgiOKc50g/view?usp=sharing
+
+---
+
