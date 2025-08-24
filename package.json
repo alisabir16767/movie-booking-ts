@@ -1,7 +1,7 @@
 {
   "name": "movie-booking-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "smallBus1.0",
   "main": "index.js",
    "scripts": {
   "dev": "ts-node-dev --respawn --transpile-only src/server.ts",
