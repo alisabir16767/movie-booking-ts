@@ -7,7 +7,7 @@ A simple backend for movie booking built with **Express, TypeScript, MongoDB, an
 
 ---
 
-## 🚀 Features
+## Features
 
 * Movies → create & list
 * Shows → create, list, seat availability
